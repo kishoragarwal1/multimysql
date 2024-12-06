@@ -17,13 +17,18 @@ git clone https://github.com/kishoragarwal1/ubuntu.git
 
 ## install_mysql.sh
 
-This script installs MySQL on your system.
+This script installs latest MySQL on your system.
 
 ### Permission
 To make the script executable, run the following command:
 
 ```bash
 sudo chmod +x install_mysql.sh
+```
+### Run the script
+To set up a MySQL Server, run the script and follow the steps.
+```bash
+sudo ./install_mysql.sh
 ```
 
 ## mysql_instance_setup.sh
