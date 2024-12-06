@@ -4,6 +4,17 @@ This repository contains scripts to install MySQL and set up individual MySQL in
 
 ---
 
+## Install Git
+
+```bash
+sudo apt update
+sudo apt install git
+```
+### Clone repository
+```bash
+[git clone](https://github.com/kishoragarwal1/ubuntu.git)
+```
+
 ## install_mysql.sh
 
 This script installs MySQL on your system.
