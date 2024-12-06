@@ -12,7 +12,7 @@ sudo apt install git
 ```
 ### Clone repository
 ```bash
-[git clone](https://github.com/kishoragarwal1/ubuntu.git)
+git clone https://github.com/kishoragarwal1/ubuntu.git
 ```
 
 ## install_mysql.sh
