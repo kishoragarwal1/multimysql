@@ -14,7 +14,7 @@ To make the script executable, run the following command:
 ```bash
 sudo chmod +x install_mysql.sh
 
-
+---
 
 ## mysql_instance_setup.sh
 
