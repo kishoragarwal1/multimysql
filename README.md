@@ -13,3 +13,23 @@ To make the script executable, run the following command:
 
 ```bash
 sudo chmod +x install_mysql.sh
+
+
+
+## mysql_instance_setup.sh
+
+This script sets up a new MySQL instance with a given instance name and port number.
+
+### Permission
+To make the script executable, run the following command:
+
+```bash
+sudo chmod +x mysql_instance_setup.sh
+
+### Run the script
+
+To set up a MySQL instance, run the script with the desired instance name and port number:
+
+```bash
+sudo ./mysql_instance_setup.sh instance_name port_number
+
