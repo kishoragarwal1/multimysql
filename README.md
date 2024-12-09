@@ -14,7 +14,9 @@ sudo apt install git
 ```bash
 git clone https://github.com/kishoragarwal1/multimysql.git
 ```
-
+```bash
+cd multimysql
+```
 ## install_mysql.sh
 
 This script installs latest MySQL on your system.
